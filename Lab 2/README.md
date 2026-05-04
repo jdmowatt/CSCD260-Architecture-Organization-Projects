@@ -3,7 +3,7 @@ employee. The formula for total pay is as follows:
 Total monthly pay in $ = base pay in $ + number of overtime hours × (2.5 × hourly rate in $)
 In your code, you can assume that the monthly base pay is $5000, number of overtime
 hours in a month is 15, and hourly rate is $32.50. You can only use integer arithmetic.
-Note: There is no requirement that your code computes the monthly pay in \$.
+Note: There is no requirement that your code computes the monthly pay in $.
 
 2. Write an assembly program which will compute the factorial of 5. Do not use a loop.
 Note: You can use at most two registers, R0 and R1, and your final answer should be in R0.
